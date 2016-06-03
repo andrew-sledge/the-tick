@@ -1,5 +1,6 @@
 # the tick 
 ![The Tick!](http://i.imgur.com/BltBTM4.jpg)
+
 Get a TICK stack up and running quickly.
 
 ## Usage
@@ -20,3 +21,5 @@ To install just kapacitor:
 
 To install telegraf *AND* influxdb:
 `./tick_install.sh telegraf influxdb`
+
+You get the idea.
