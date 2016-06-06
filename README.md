@@ -5,7 +5,7 @@ Get a TICK stack up and running quickly.
 
 ## Install
 
-`$ wget -O - https://raw.githubusercontent.com/andrew-sledge/the-tick/master/tick_install.sh`
+`$ wget https://raw.githubusercontent.com/andrew-sledge/the-tick/master/tick_install.sh`
 
 ## Usage
 To install the entire stack:
